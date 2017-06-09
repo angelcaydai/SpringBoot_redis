@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: vds5s4_redis
+Implementation-Version: 0.0.1
+Built-By: only_ui
+Implementation-Vendor-Id: cn.appgoo
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/vds5s4_root/
+ vds5s4_redis/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
